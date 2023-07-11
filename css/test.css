@@ -1,0 +1,48 @@
+div
+{
+width:600px;
+height: 600px;
+border-radius: 350px;
+background-color: blueviolet;
+
+}
+
+table ,th,td
+{
+border-color: blueviolet;
+border: solid blueviolet;
+border-radius: 9px;
+}
+
+h1
+{
+background-color: crimson;
+width: 100px;
+height: 90px;
+}
+
+.div1
+{
+background-color: blue;
+margin-right:auto;
+}
+
+#div2
+{
+
+    background-color: black;
+}
+
+img 
+{
+
+
+background-image: url(../session3.html);
+background-attachment: fixed;
+}
+
+
+
+
+
+
